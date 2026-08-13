@@ -1,6 +1,6 @@
 # Hi, I'm Ritwick 👋
 
-I'm a Computer Science student at the **University of British Columbia** building software with a focus on **web development and application security**.
+I'm a Mathematics student at the **University of British Columbia** building software with a focus on **web development and application security**.
 
 I enjoy working through the logic behind applications rather than just getting them to work — from designing application state and class interactions to testing edge cases and building responsive interfaces.
 
